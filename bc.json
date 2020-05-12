@@ -5,7 +5,7 @@
 	"status": "published",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
-	"preview": "https://github.com/breatheco-de/exercise-queue-management-api/blob/master/preview.jpg?raw=true",
+	"preview": "https://github.com/breatheco-de/exercise-todo-list-api/blob/master/preview.jpg?raw=true",
 	"duration" : 8,
 	"technologies": ["flask", "python", "json", "logging"],
 	"talents": []
