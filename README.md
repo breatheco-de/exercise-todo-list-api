@@ -1,7 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo List API
 
-This project can be considered the continuation of the [TodoList Application with React and Fetch](https://projects.breatheco.de/d/todo-list-with-fetch#readme).
-We are going to replicated/code this exact api: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
+We are going to build one API to manage tasks (Todo List). Similar to this api: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
 
 ## 📝 Instructions
 
