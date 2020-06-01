@@ -2,6 +2,10 @@
 
 We are going to build one API to manage tasks (Todo List). Similar to this api: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
 
+## 💻 Installation
+
+Use the Flask API boilerplate, clone the repository on Gitpod to avoid any local issues in your computer because you will need to have MySQL and python 3.7+ installed (already installed on Gitpod).
+
 ## 📝 Instructions
 
 Create an API that connects to a MySQL database and implements the [Following Endpoints](http://assets.breatheco.de/apis/fake/todos/).
