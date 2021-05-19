@@ -17,5 +17,5 @@ Crea una API que se conecte a una base de datos MySQL e implemente los [siguient
 Este ejercicio te hará practicar los siguientes fundamentos:
 
 1. Construye una RESTful API.
-2. Construye una base de datos con SQLAlchemy.
+2. Construye una base de datos con SQLAlchemy o Expressjs/TypeOrm..
 3. Migraciones de la base de datos.
