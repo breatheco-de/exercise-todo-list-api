@@ -4,7 +4,7 @@ We are going to build one API to manage tasks (Todo List). Similar to this api: 
 
 ## 💻 Installation
 
-Use the python/flask or node/express boilerplate, clone the repository on Gitpod to avoid any local issues in your computer because you will need to have MySQL or PostgreSql and python 3.7+ installed (already installed on Gitpod).
+Use the python/flask or node/express boilerplate, clone the repository on Gitpod to avoid any local issues in your computer because you will need to have MySQL or PostgreSQL and python 3.7+ installed (already installed on Gitpod).
 
 ## 📝 Instructions
 
