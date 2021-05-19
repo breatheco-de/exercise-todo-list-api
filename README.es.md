@@ -5,7 +5,7 @@ Vamos a replicar/codificar esta api exacta: [http://assets.breatheco.de/apis/fak
 
 ## 📝 Instrucciones
 
-Crea una API que se conecte a una base de datos MySQL e implemente los [siguientes endpoints](http://assets.breatheco.de/apis/fake/todos/).
+Crea una API que se conecte a una base de datos MySQL o PostgreSQL e implemente los [siguientes endpoints](http://assets.breatheco.de/apis/fake/todos/).
 
 1. `[GET] /todos/user/<username>` Obtener la lista de Todos para un usuario en particular.
 2. `[POST] /todos/user/<username>` Crear una nueva lista de Todos de un usuario en particular.
