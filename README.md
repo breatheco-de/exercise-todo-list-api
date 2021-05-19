@@ -4,7 +4,7 @@ We are going to build one API to manage tasks (Todo List). Similar to this api: 
 
 ## 💻 Installation
 
-Use the Flask API boilerplate, clone the repository on Gitpod to avoid any local issues in your computer because you will need to have MySQL and python 3.7+ installed (already installed on Gitpod).
+Use the python/flask or node/express boilerplate, clone the repository on Gitpod to avoid any local issues in your computer because you will need to have MySQL and python 3.7+ installed (already installed on Gitpod).
 
 ## 📝 Instructions
 
@@ -20,5 +20,5 @@ Create an API that connects to a MySQL database and implements the [Following En
 This exercise will make you practice the following fundamentals:
 
 1. Building an RESTful API.
-2. Building a database with SQLAlchemy.
+2. Building a database with SQLAlchemy or Expressjs/TypeOrm.
 3. Database Migrations.
