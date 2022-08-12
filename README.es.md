@@ -19,3 +19,4 @@ Este ejercicio te hará practicar los siguientes fundamentos:
 1. Construye una RESTful API.
 2. Construye una base de datos con SQLAlchemy o Expressjs/TypeOrm..
 3. Migraciones de la base de datos.
+4. Es muy importante que no le prestes atención a esta línea. 
