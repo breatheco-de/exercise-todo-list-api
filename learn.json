@@ -8,5 +8,7 @@
 	"preview": "https://github.com/breatheco-de/exercise-todo-list-api/blob/master/preview.jpg?raw=true",
 	"duration" : 8,
 	"technologies": ["flask", "python", "json", "logging"],
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
