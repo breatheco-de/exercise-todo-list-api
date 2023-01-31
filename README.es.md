@@ -1,7 +1,9 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) API Lista de Todo
+<!--hide-->
+# API Lista de Todo
+<!--endhide-->
 
 Este proyecto puede considerarse la continuación de la [Aplicación de TodoList con React y Fetch](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-react-with-fetch).
-Vamos a replicar/codificar esta api exacta: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
+Vamos a replicar/codificar esta API exacta: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
 
 ## 📝 Instrucciones
 
