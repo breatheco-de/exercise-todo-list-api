@@ -2,7 +2,7 @@
 # API Lista de Todo
 <!--endhide-->
 
-Este proyecto puede considerarse la continuación de la [Aplicación de TodoList con React y Fetch](https://4geeks.com/interactive-coding-tutorial/beginner/todo-list-react-with-fetch).
+Este proyecto puede considerarse la continuación de la [Aplicación de TodoList con React y Fetch](https://4geeks.com/es/interactive-coding-tutorial/todo-list-react-with-fetch-es).
 Vamos a replicar/codificar esta API exacta: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
 
 ## 📝 Instrucciones
