@@ -1,7 +1,13 @@
 {
 	"slug" : "todo-list-api",
-	"title" : "Todo List API",
-	"description": "Build a Todo List API using Flask or Django",
+	"title" : {
+		"us":"Todo List API",
+		"es":"API de lista de tareas pendientes"
+	},
+	"description" : {
+		"es":"Construye una API de lista de tareas usando Flask o Express y conéctala a una base de datos MySQL. Practica los endpoints RESTful para crear, leer, actualizar y eliminar tareas de usuarios. Un proyecto práctico para dominar fundamentos de backend como SQLAlchemy/TypeORM y migraciones de bases de datos.",
+		"us":"Build a Todo List API using Flask or Express and connect it to a MySQL database. Practice RESTful endpoints to create, read, update, and delete user tasks. A hands-on project to master backend fundamentals like SQLAlchemy/TypeORM and database migrations."
+	},
 	"status": "published",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
@@ -10,5 +16,8 @@
 	"technologies": ["flask", "python", "json", "logging"],
 	"talents": [],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=185"
+	  }
 }
